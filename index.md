@@ -2,19 +2,19 @@
 
 Here you'll find all the best coding I did for my CS 121 class.
 
-### Header 3[Activity_Lite_Brite](https://github.com/commsmartly/commsmartly.github.io/tree/master/Activity_Lite_Brite)
+### [Activity_Lite_Brite](https://github.com/commsmartly/commsmartly.github.io/tree/master/Activity_Lite_Brite)
 
-### Header 3[Activity_Wargames](https://github.com/commsmartly/commsmartly.github.io/tree/master/Activity_Wargames)
+### [Activity_Wargames](https://github.com/commsmartly/commsmartly.github.io/tree/master/Activity_Wargames)
 
-### Header 3[P1_Playlist](https://github.com/commsmartly/commsmartly.github.io/tree/master/P1_Playlist)
+### [P1_Playlist](https://github.com/commsmartly/commsmartly.github.io/tree/master/P1_Playlist)
 
-### Header 3[P2_Interactive_PlayList_Analysis](https://github.com/commsmartly/commsmartly.github.io/tree/master/P2_Interactive_PlayList_Analysis)
+### [P2_Interactive_PlayList_Analysis](https://github.com/commsmartly/commsmartly.github.io/tree/master/P2_Interactive_PlayList_Analysis)
 
-### Header 3[P3_Library_Of_Books](https://github.com/commsmartly/commsmartly.github.io/tree/master/P3_Library_Of_Books)
+### [P3_Library_Of_Books](https://github.com/commsmartly/commsmartly.github.io/tree/master/P3_Library_Of_Books)
 
-### Header 3[P4_Reader_Of_Books](https://github.com/commsmartly/commsmartly.github.io/tree/master/P4_Reader_Of_Books)
+### [P4_Reader_Of_Books](https://github.com/commsmartly/commsmartly.github.io/tree/master/P4_Reader_Of_Books)
 
-### Header 3[P5_Tic_Tac_Toe](https://github.com/commsmartly/commsmartly.github.io/tree/master/P5_Tic_Tac_Toe)
+### [P5_Tic_Tac_Toe](https://github.com/commsmartly/commsmartly.github.io/tree/master/P5_Tic_Tac_Toe)
 
 
 You can use the [editor on GitHub](https://github.com/commsmartly/commsmartly.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
